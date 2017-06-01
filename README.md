@@ -1,18 +1,18 @@
 # HEAD
 
-A list of everything that could go in the `<head>` of your document
+Una lista de todo lo que puede ir en el `<head>` de tu documento
 
-## Table of Contents
+## Índice
 
-- [Recommended Minimum](#recommended-minimum)
-- [Elements](#elements)
+- [Mínimo recomendado](#mínimo-recomendado)
+- [Elementos](#elements)
 - [Meta](#meta)
 - [Link](#link)
   - [Favicons](#favicons)
 - [Social](#social)
   - [Facebook Open Graph](#facebook-open-graph)
   - [Facebook Instant Articles](#facebook-instant-articles)
-  - [Twitter Cards](#twitter-cards)
+  - [Tarjetas de Twitter](#tarjetas-de-twitter)
   - [Google+ / Schema.org](#google--schemaorg)
   - [OEmbed](#oembed)
 - [Browsers / Platforms](#browsers--platforms)
